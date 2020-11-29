@@ -41,11 +41,11 @@ To start the application, switch to the directory where jar file is located, and
 
 ## Sample Request & Response
 
-###Sample Request
+### Sample Request
 
 `GET http://localhost:8080/Covid19Tracker/getCurrentStats`
 
-###Sample Response
+### Sample Response
 
 ```
 [
@@ -1426,7 +1426,7 @@ A Country record maybe repeated if the response contains data from more than one
   }
 ```
 
-###Data Source
+### Data Source
 
 The data is collected from the following source:
 
